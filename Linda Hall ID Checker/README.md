@@ -5,4 +5,4 @@ Code:
 
 Results:
 
-<img width="544"alt="Linda_hall_check_output" src="https://user-images.githubusercontent.com/72332347/166181784-c816353d-988e-4718-b05a-ed46cc7f23f2.png">
+<img width="544" alt="Linda_hall_check_output" src="https://user-images.githubusercontent.com/72332347/166181847-20c9a3cd-e7d5-4f20-9e89-6565d9d8cb43.png">
